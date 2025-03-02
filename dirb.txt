@@ -1,0 +1,18 @@
+dirb https://mc.uz/mcadmintoolsuz/uz -f // -f firewall by pass, dirb ochiq directory topadi
+
+repeator - bu laboratory, betta sessiyuani usahb o'ynaab o'tirsa bo'ladi (o'n tomon senf to repeator)
+
+
+
+
+MySQL 
+
+SELECT 'user,password' FROM 'users' or 1=1 -- -
+
+registratsiyas paytida usernasmedan oldin space qo'y
+
+Te: trailers
+
+{"phone":"+998999999995",
+"phone":"+998999999995",
+
